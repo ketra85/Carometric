@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carometric</string>
+    <string name="vin_hint">Please Type Your Vin Number</string>
+    <string name="contract_hint">"Please Type Your Contract Number"</string>
+    <string name="sendBtn">Search!</string>>
+    <string name="citroen">Citroën</string>
+    <string name="ds">DS</string>
+    <string name="peugeot">Peugeot</string>
+</resources>
